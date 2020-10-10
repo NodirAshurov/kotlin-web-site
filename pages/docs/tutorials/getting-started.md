@@ -17,7 +17,7 @@ from the [Kotlin Koans course](https://www.jetbrains.com/help/education/learner-
 If you already **have a Java project**, you can:
 
 *   **[Start adding Kotlin code to your project](mixing-java-kotlin-intellij.html).**  
-Begin with a small class or function with the annotations required for proper [interoperability with Java code](../reference/java-interop.html).
+Begin with a small c lass or function with the annotations required for proper [interoperability with Java code](../reference/java-interop.html).
 *   **Write some tests in Kotlin** for your code.  
 Tests are a safe place to add Kotlin to the codebase because they are not bundled with your application during packaging.
 *   **[Convert Java code to Kotlin](mixing-java-kotlin-intellij.html#converting-an-existing-java-file-to-kotlin-with-j2k)**.  
